@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2324_1Y_CpEOOP_ListRecreation", "2324_1Y_CpEOOP_ListRecreation\2324_1Y_CpEOOP_ListRecreation.csproj", "{97C4C08A-A25F-4A58-A4E7-3F9753A20BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C4C08A-A25F-4A58-A4E7-3F9753A20BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C4C08A-A25F-4A58-A4E7-3F9753A20BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C4C08A-A25F-4A58-A4E7-3F9753A20BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C4C08A-A25F-4A58-A4E7-3F9753A20BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE40758A-D1A4-4590-8148-841499EC3B0D}
+	EndGlobalSection
+EndGlobal
